@@ -1,0 +1,14 @@
+RDF CONSULTORIA — SITE ATUALIZADO
+
+ALTERAÇÕES REALIZADAS
+- Nome da marca alterado de Ricardo Consultoria para RDF Consultoria.
+- Logotipo enviado aplicado no cabeçalho.
+- Logotipo enviado aplicado no rodapé.
+- Título e metadados da página atualizados.
+
+ARQUIVOS
+- index.html
+- rdf-logo.png
+
+OBSERVAÇÃO
+A logo também foi incorporada diretamente no HTML para garantir exibição correta.
